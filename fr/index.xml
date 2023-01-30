@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snowcamp 2022</title>
+    <title>Snowcamp 2023</title>
     <link>https://ldoppea.github.io/draft-snowcamp/fr/</link>
-    <description>Recent content on Snowcamp 2022</description>
+    <description>Recent content on Snowcamp 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://ldoppea.github.io/draft-snowcamp/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,7 +23,7 @@ En cas de soucis durant la conférence, nous invitons toute personne ayant besoi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldoppea.github.io/draft-snowcamp/fr/organisation/</guid>
-      <description>  Organisation  Le Snowcamp est une conférence faite par des développeurs de la région grenobloise. Elle a été créée en 2016 à l&#39;initiative de l&#39;AlpesJug. Tous les organisateurs sont des geeks bénévoles passionnés.           Cédric Tran-Xuan           Johan Martinsson           Lorie Pisicchio           Ludovic Poitou           Michel Barret           Miguel Moquillon           Pierrick Rassat           Rémy Sanlaville           Sébastien Chassande-Barrioz           Yannick Chiron           Yohan Lasorsa         </description>
+      <description>  Organisation  Le Snowcamp est une conférence faite par des développeurs de la région grenobloise. Elle a été créée en 2016 à l&#39;initiative de l&#39;AlpesJug. Tous les organisateurs sont des geeks bénévoles passionnés.           Cédric Tran-Xuan           Julien Giovaresco           Lorie Pisicchio           Ludovic Poitou           Maha Alsayasneh           Michel Barret           Miguel Moquillon           Ouiame Talbi           Pierrick Rassat           Sébastien Chassande-Barrioz           Willy Malvault           Yannick Chiron           Yohan Lasorsa         </description>
     </item>
     
     <item>
@@ -32,9 +32,9 @@ En cas de soucis durant la conférence, nous invitons toute personne ayant besoi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldoppea.github.io/draft-snowcamp/fr/previous-editions/</guid>
-      <description>2020        Il y avait quoi en 2020 ? Beaucoup de sujets passionnant !
- En 2020, SnowCamp était décliné autour de 4 thèmes : Découverte, Web &amp;amp; DevOps / Cloud, Langages &amp; Paradigmes et IA / Machine Learning. Redécouvrez l&#39;agenda et les supports de présentations ici !
-     Sponsors 2020  Sans eux, l&amp;#39;aventure n&amp;#39;aurait pas été possible.</description>
+      <description>2022        Il y avait quoi en 2022 ? Une reprise des confs en présentiel qui fait du bien !
+ Retrouvez le programme de SnowCamp 2022 ici ! Vous pouvez aussi retrouver les liens vers les slides des conférences ici, et les retours des participants là
+     Sponsors 2022  Sans eux, l&amp;#39;aventure n&amp;#39;aurait pas été possible.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ En cas de soucis durant la conférence, nous invitons toute personne ayant besoi
       
       <guid>https://ldoppea.github.io/draft-snowcamp/fr/snowcamp/</guid>
       <description>Snowcamp  La conférence qui envoie de la noix       Le SnowCamp c&#39;est quoi ? Tout d’abord, c’est surtout une conférence à haut niveau technique où l’innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour de technologies d’aujourd’hui et de demain.
-Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière ; une conférence le jeudi et vendredi plus classique mais qui permet aussi de découvrir des pitches de 5 mins sur des projets universitaires ou de recherche ; enfin le samedi, une journée détente à la neige.</description>
+Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière; une conférence le jeudi et vendredi plus classique; enfin le samedi, une journée détente à la neige.</description>
     </item>
     
     <item>
@@ -63,8 +63,8 @@ Pour réussir dans cette aventure, nous avons besoin de vous. En retour, nous vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldoppea.github.io/draft-snowcamp/fr/tickets/</guid>
-      <description>Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! Vente des Early Birds le 28 Octobre !   Billetterie ici     Early Birds - Pack 3 jours 150 &amp;euro; 100 &amp;euro; Universités &amp;#43; Conférences
-  Accès aux Universités  Accès aux Conférences  Petit déjeuner sur les 3 jours  Repas du midi sur les 3 jours  Meet &amp; Greet le Jeudi soir  La billetterie ouvre le 28 Octobre !</description>
+      <description>Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire BilletWeb. Attention, le nombre de billets est limité ! La billetterie ouvre le 21 Novembre à 11h.   Billetterie ici      Standard - Pack 3 jours 155 &amp;euro; Universités &amp;#43; Conférences
+  Accès aux Universités  Accès aux Conférences  Petit déjeuner sur les 3 jours  Repas du midi sur les 3 jours  Meet &amp; Greet le Jeudi soir  La billetterie est ouverte    Standard - Pack 2 jours 65 &amp;euro; Conférences seulement</description>
     </item>
     
   </channel>
